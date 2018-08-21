@@ -1,4 +1,3 @@
-
 {
   "name": "tabtracker",
   "version": "1.0.0",
@@ -38,6 +37,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
     "express": "^4.16.2",
     "express-graphql": "^0.6.11",
     "graphql": "^0.11.7",
